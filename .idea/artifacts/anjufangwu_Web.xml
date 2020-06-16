@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="anjufangwu:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/anjufangwu_Web</output-path>
+    <root id="archive" name="anjufangwu_Web.war">
+      <element id="artifact" artifact-name="anjufangwu:Web exploded" />
+    </root>
+  </artifact>
+</component>
